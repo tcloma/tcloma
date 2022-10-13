@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/tyronecloma/) | [Twitter](https://twitter.com/tcloma1) | tyrone.cloma0219@gmail.com
 
 
-Currently working on finishing my program at Flatiron School, while also diversifying my skillset to prepare myself for the job search! Genuine tech enjoyer and avid gamer. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
+Recent Flatiron School grad, currently diversifying my skillset to prepare myself for the job search! Genuine tech enjoyer and avid gamer. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
 
 <br />
 
