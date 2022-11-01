@@ -1,7 +1,7 @@
 
 # Struggling college student turned Fullstack Developer 🎉
 
-[LinkedIn](https://www.linkedin.com/in/tyronecloma/) | [Twitter](https://twitter.com/TClomaDev) | tyrone.cloma0219@gmail.com
+[LinkedIn](https://www.linkedin.com/in/tyronecloma/) | [Twitter](https://twitter.com/TClomaDev) | tyrone.cloma0219@gmail.com | [Portfolio](https://www.tcloma.dev/)
 
 
 Recent Flatiron School grad, currently diversifying my skillset to prepare myself for the job search! Genuine tech enjoyer and avid gamer. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
@@ -25,7 +25,7 @@ Recent Flatiron School grad, currently diversifying my skillset to prepare mysel
 I'm looking to be exposed to more of the professional tech-world through learning, collaboration, and genuine connections!
 <br />
 I am openly looking for:
-- Freelance / Permanent work opportunities and internships [~~`(portfolio)`~~](TBD) (TBD)
+- Freelance / Permanent work opportunities and internships
 - Collaboration opportunities => Frontend / Backend / Fullstack
 - Invitations / news for upcoming hackathons and similar tech events
 - Mentors, resources, and fellow learners for:
