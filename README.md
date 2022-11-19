@@ -13,7 +13,7 @@ Recent Flatiron School grad, currently diversifying my skillset to prepare mysel
 ```TypeScript
 {
    languages: ['JavaScript', 'TypeScript', 'Ruby'],
-   frontend_tech: ['React', 'Next.js', 'SASS', 'Electron'],
+   frontend_tech: ['React', 'Next.js', 'SASS', 'TailwindCSS' 'Electron'],
    backend_tech: ['Rails', 'Node.js', 'Express.js'],
    tools_and_dbs: ['Vite', 'MongoDB', 'PostgreSQL']
 }
