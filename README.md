@@ -34,4 +34,4 @@ I am openly looking for:
    - Systems Design
    - Product Presentation
    - Any language / framework / technology:
-      - Rust - Tauri - Svelte - ReactNative - Go - Phoenix - Python
+      - Svelte - ReactNative - Go - Deno - Firebase
