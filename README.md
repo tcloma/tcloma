@@ -10,7 +10,7 @@ Recent Flatiron School grad, currently diversifying my skillset to prepare mysel
 
 ## Tech Stack
 #####  Looking to expand it!
-```TypeScript
+```JS
 {
    languages: ['JavaScript', 'TypeScript', 'Ruby'],
    frontend_tech: ['React', 'Next.js', 'SASS', 'TailwindCSS' 'Electron'],
