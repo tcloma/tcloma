@@ -1,10 +1,10 @@
 
-# Struggling college student turned Fullstack Developer 🎉
+# College student turned Fullstack Developer 🎉
 
 [LinkedIn](https://www.linkedin.com/in/tyronecloma/) | [Twitter](https://twitter.com/TClomaDev) | [Portfolio](https://www.tcloma.dev/) | tyrone.cloma0219@gmail.com 
 
 
-Recent Flatiron School grad, currently diversifying my skillset to prepare myself for the job search! Genuine tech enjoyer and avid gamer. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
+Flatiron School grad, currently diversifying my skillset to prepare myself for the job search! Genuine tech enjoyer and avid gamer. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
 
 <br />
 
@@ -34,4 +34,4 @@ I am openly looking for:
    - Systems Design
    - Product Presentation
    - Any language / framework / technology:
-      - Svelte - ReactNative - Go - Deno - Firebase
+      - Svelte - ReactNative - Deno - Rust - Go
