@@ -8,14 +8,59 @@ Junior developer, currently working freelance while searching for a full-time po
 <br />
 
 ## Tech Stack
-```JS
-{
-   languages: ['JavaScript', 'TypeScript', 'Ruby', 'Python', 'Java', 'Rust'],
-   frontend_tech: ['React', 'Next.js', 'SASS', 'TailwindCSS' 'Electron', 'Tauri'],
-   backend_tech: ['Rails', 'Node.js', 'Express.js', 'Flask', 'Spring Boot', 'Actix Web'],
-   tools_and_dbs: ['Vite', 'MongoDB', 'PostgreSQL', ']
-}
-```
+<table>
+   <tr> 
+      <th>Languages</th>
+      <th>Frontend</th>
+   </tr>
+   <tr>
+      <td>
+         <p align='center'>
+            <a href="https://skillicons.dev">
+               <img width='200' height='0' /> <br />
+               <img width-'200' src='https://skillicons.dev/icons?i=js,ts,python,java,go,rust' />
+               <img width='200' height='0' /> <br />
+            </a>
+         </p>
+      </td>
+      <td>
+         <p align='center'>
+            <a href="https://skillicons.dev">
+               <img width='200' height='0' /> <br />
+               <img src='https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwind,sass' />
+               <img width='200' height='0' /> <br />
+            </a>
+         </p>
+      </td>
+   </tr>
+</table>
+<table>
+   <tr>
+      <th>Backend</td>
+      <th>Tools and Databases</td>
+   </tr>
+   <tr>
+      <td>
+         <p align='center'>
+            <a href="https://skillicons.dev">
+               <img width='200' height='0' /> <br />
+            <img src='https://skillicons.dev/icons?i=nodejs,express,flask,rails,spring,prisma' />
+               <img width='200' height='0' /> <br />
+            </a>
+         </p>
+      </td>
+      <td>
+         <p align='center'>
+            <a href="https://skillicons.dev">
+               <img width='200' height='0' /> <br />
+               <img src='https://skillicons.dev/icons?i=postgres,mongodb,firebase,vite,webpack,git' />
+               <img width='200' height='0' /> <br />
+            </a>
+         </p>
+      </td>
+   </tr>
+</table>
+
 
 <br />
 
