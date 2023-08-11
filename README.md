@@ -1,77 +1,16 @@
 
-# Fullstack Developer 🎉
-#### [Portfolio](https://www.tcloma.dev/) | [LinkedIn](https://www.linkedin.com/in/tyronecloma/) | tyrone.cloma0219@gmail.com 
+# Hi there! I'm Ty 👋
+> Ty - Tyke - Tyrone
 
+Web Developer & Freelancer currently upskilling while searching for a full-time position. I build things to either solve problems, or to attempt my ***100000th*** startup idea. I'm passionate about learning and exploring new technologies by virtue of how many avenues they open up for innovation and critical thought. When I'm not coding I rack up hours on Steam and try to find the ***1000000th*** song to add to my Spotify playlist
 
-Junior developer, currently working freelance while searching for a full-time position. Genuine tech enjoyer, avid gamer, and music fanatic. Feel free to reach out to me for collaboration, questions, a plain old conversation, or maybe even a gaming invitation 👀
+[`🏠 tcloma.dev`](https://tcloma.dev/)
+[`📫 tyrone.cloma1@gmail.com`](mailto:tyrone.cloma1@gmail.com)
+[`🔗 @tyronecloma`](https://linkedin.com/in/tyronecloma)
 
-<br />
+### ⚛️ Things I've built
+> :D
 
-## Tech Stack
-<table>
-   <tr> 
-      <th>Languages</th>
-      <th>Frontend</th>
-   </tr>
-   <tr>
-      <td>
-         <p align='center'>
-            <a href="https://skillicons.dev">
-               <img width='200' height='0' /> <br />
-               <img width-'200' src='https://skillicons.dev/icons?i=js,ts,python,java,go,rust' />
-               <img width='200' height='0' /> <br />
-            </a>
-         </p>
-      </td>
-      <td>
-         <p align='center'>
-            <a href="https://skillicons.dev">
-               <img width='200' height='0' /> <br />
-               <img src='https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwind,sass' />
-               <img width='200' height='0' /> <br />
-            </a>
-         </p>
-      </td>
-   </tr>
-</table>
-<table>
-   <tr>
-      <th>Backend</td>
-      <th>Tools and Databases</td>
-   </tr>
-   <tr>
-      <td>
-         <p align='center'>
-            <a href="https://skillicons.dev">
-               <img width='200' height='0' /> <br />
-            <img src='https://skillicons.dev/icons?i=nodejs,express,flask,rails,spring,prisma' />
-               <img width='200' height='0' /> <br />
-            </a>
-         </p>
-      </td>
-      <td>
-         <p align='center'>
-            <a href="https://skillicons.dev">
-               <img width='200' height='0' /> <br />
-               <img src='https://skillicons.dev/icons?i=postgres,mongodb,firebase,vite,webpack,git' />
-               <img width='200' height='0' /> <br />
-            </a>
-         </p>
-      </td>
-   </tr>
-</table>
+### ⚒️ Technologies I build things with
 
-
-<br />
-
-
-I'm looking to be exposed to more of the professional tech-world through learning, collaboration, and genuine connections!
-<br />
-I am actively on the look for:
-- Freelance & Permanent work opportunities
-- Chances to collaborate / contribute to projects
-- Mentors, resources, and fellow learners for:
-   - UI/UX Design
-   - Systems Design
-   - Product Presentation
-   - Project Management
+[![JS](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,sass,tailwind,svelte,astro,electron,tauri,python,java,go,rust,flask,rails,spring,postgres,mongodb,firebase,redis,vite)](https://skillicons.dev)
