@@ -8,9 +8,9 @@ Web Developer & Freelancer currently upskilling while searching for a full-time 
 [`📫 tyrone.cloma1@gmail.com`](mailto:tyrone.cloma1@gmail.com)
 [`🔗 @tyronecloma`](https://linkedin.com/in/tyronecloma)
 
-### ⚛️ Things I've built
-> :D
 
 ### ⚒️ Technologies I build things with
-
 [![JS](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,sass,tailwind,svelte,astro,electron,tauri,python,java,go,rust,flask,rails,spring,postgres,mongodb,firebase,redis,vite)](https://skillicons.dev)
+
+### ⚛️ Things I've built
+> Look below :D
