@@ -10,7 +10,7 @@ Web Developer & Freelancer currently upskilling while searching for a full-time 
 
 
 ### ⚒️ Technologies I build things with
-[![JS](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,tailwind,svelte,astro,electron,python,go,flaskpostgres,mongodb,firebase)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,tailwind,svelte,astro,electron,python,go,flask,postgres,mongodb,firebase)](https://skillicons.dev)
 
 ### ⚛️ Things I've built
 > Look below :D
