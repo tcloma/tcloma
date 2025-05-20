@@ -12,4 +12,7 @@ I build things to either solve problems, or to attempt my ***100000th*** startup
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,go,fastapi,postgres,mongodb,firebase,bash,powershell,azure,docker)](https://skillicons.dev)
 
 ### Projects I've built
-> Look below 👇
+- [Provisioning Azure Virtual Machines using the Azure CLI](https://github.com/tcloma/azure-cli-vm-provisioning)
+- [Flypto Crypto - A mock crypto currency Trading Platform](https://github.com/tcloma/Flypto-Crypto)
+- [Hover Note - Markdown Sticky Notes for your desktop!](https://github.com/tcloma/Hover-Note)
+> More below 👇
